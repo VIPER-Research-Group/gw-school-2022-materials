@@ -1,0 +1,22 @@
+# week 2, day 1, datadir
+Week_2/Day_1/data/
+
+# vim tempory files
+.*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter notebook stuff
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# dotenv
+.env
