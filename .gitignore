@@ -1,5 +1,6 @@
-# week 2, day 1, datadir
+# week 2, day 1, datadir and outdir
 Week_2/Day_1/data/
+mcmc_test/
 
 # vim tempory files
 .*.swp
